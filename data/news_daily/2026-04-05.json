@@ -1,0 +1,1466 @@
+{
+  "meta": {
+    "date": "2026-04-05",
+    "collected_at": "2026-04-05T15:40:14.033028",
+    "total_articles": 52
+  },
+  "stats": {
+    "date": "2026-04-05",
+    "total_articles": 52,
+    "joseonghwan_articles": 13,
+    "sentiment": {
+      "positive": 3,
+      "negative": 6,
+      "neutral": 4,
+      "pos_pct": 23,
+      "neg_pct": 46,
+      "neu_pct": 31
+    },
+    "comments": {
+      "total": 0,
+      "positive": 0,
+      "negative": 0,
+      "neutral": 0,
+      "pos_pct": 0,
+      "neg_pct": 0,
+      "neu_pct": 0
+    },
+    "candidate_exposure": {
+      "조성환": 13,
+      "이용욱": 1,
+      "고준호": 0,
+      "안명규": 0,
+      "박용호": 2,
+      "이재홍": 0,
+      "한길룡": 0
+    },
+    "top_keywords": [
+      [
+        "안전",
+        1
+      ]
+    ],
+    "top_articles": [
+      {
+        "title": "[SW포커스] ‘수난의 마운드’ QS 보기 어렵고, 뒷문도 흔들흔들",
+        "description": "조성환 KBS N 스포츠 해설위원은 “투수들의 몸 상태가 완전히 올라오지 않은 시기인 것을 감안해야 한다”고 말했다. 아직 페이스를 끌어올리는 과정에 있는 투수들이 적지 않다는 뜻이다. 정규리그는 144경기... ",
+        "link": "https://m.sports.naver.com/kbaseball/article/396/0000740809",
+        "originallink": "https://www.sportsworldi.com/newsView/20260405505777",
+        "pubDate": "2026-04-05",
+        "sentiment": "중립",
+        "pos_pct": 0,
+        "neg_pct": 0,
+        "candidates_mentioned": [
+          "조성환"
+        ],
+        "is_joseonghwan": true,
+        "comments": {
+          "count": 0,
+          "positive": 0,
+          "negative": 0,
+          "neutral": 0,
+          "pos_pct": 0,
+          "top_comments": []
+        }
+      },
+      {
+        "title": "크리스찬 발리골에 구상민 선방쇼... 부산, 경남 꺾고 K리그2 1위 등극",
+        "description": "조성환 감독이 이끄는 부산 아이파크는 지난 4일 오후 4시 30분 창원 축구센터에서 열린 2026 K리그2 경남... 감독 : 조성환) FW : 크리스찬(78분↔김찬), 박혜성(46분↔김민혁) MF : 손휘(46분↔김현민), 이동수, 손준석... ",
+        "link": "https://m.sports.naver.com/kfootball/article/047/0002510773",
+        "originallink": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003221452&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
+        "pubDate": "2026-04-05",
+        "sentiment": "중립",
+        "pos_pct": 0,
+        "neg_pct": 0,
+        "candidates_mentioned": [
+          "조성환"
+        ],
+        "is_joseonghwan": true,
+        "comments": {
+          "count": 0,
+          "positive": 0,
+          "negative": 0,
+          "neutral": 0,
+          "pos_pct": 0,
+          "top_comments": []
+        }
+      },
+      {
+        "title": "인천시 계양구 자율방범대, 2026년 출정식 개최",
+        "description": "촘촘한 안전망 구축  인천 계양구 자율방범대(연합대장 조성환)는 지난 1일 저녁 계양구청 1층 로비에서 ‘2026년 자율방범대 출정식’을 개최했다. 이날 출정식에는 자율방범연합대와 각 동 자율방범대원 120여 명이... ",
+        "link": "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160281556272358",
+        "originallink": "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160281556272358",
+        "pubDate": "2026-04-05",
+        "sentiment": "중립",
+        "pos_pct": 0,
+        "neg_pct": 0,
+        "candidates_mentioned": [
+          "조성환"
+        ],
+        "is_joseonghwan": true,
+        "comments": {
+          "count": 0,
+          "positive": 0,
+          "negative": 0,
+          "neutral": 0,
+          "pos_pct": 0,
+          "top_comments": []
+        }
+      },
+      {
+        "title": "[BE.현장] \"프로 감독 되고 첫 5연승!\" 파죽지세를 즐기는 조성환 부산 ...",
+        "description": "창원-김태석 기자 조성환 부산 아이파크 감독이 팀의 5연승 행진에 기뻐했다. 무엇보다 프로 감독 커리어 처음으로 경험하는 5연승이라는 점에서 만면에 미소를 지으며 승리를 즐겼다. 조성환 감독이 이끄는 부산은 4일... ",
+        "link": "https://m.sports.naver.com/kfootball/article/343/0000141281",
+        "originallink": "https://www.besteleven.com/news/articleView.html?idxno=305551",
+        "pubDate": "2026-04-04",
+        "sentiment": "긍정",
+        "pos_pct": 100,
+        "neg_pct": 0,
+        "candidates_mentioned": [
+          "조성환"
+        ],
+        "is_joseonghwan": true,
+        "comments": {
+          "count": 0,
+          "positive": 0,
+          "negative": 0,
+          "neutral": 0,
+          "pos_pct": 0,
+          "top_comments": []
+        }
+      },
+      {
+        "title": "[BE.현장] 3년 만에 5연승 폭발+조성환 감독 부임 후 최다 연승…부산, ...",
+        "description": "조성환 감독 체제가 들어선 후 최다 연승이며, 수원 삼성의 라운드 결과를 지켜봐야겠지만 현 시점에서는 K리그2 선두에 이름을 올렸다. 조성환 감독이 이끄는 부산은 4일 오후 4시 30분 창원축구센터에서 벌어졌던... ",
+        "link": "https://m.sports.naver.com/kfootball/article/343/0000141277",
+        "originallink": "https://www.besteleven.com/news/articleView.html?idxno=305547",
+        "pubDate": "2026-04-04",
+        "sentiment": "긍정",
+        "pos_pct": 100,
+        "neg_pct": 0,
+        "candidates_mentioned": [
+          "조성환"
+        ],
+        "is_joseonghwan": true,
+        "comments": {
+          "count": 0,
+          "positive": 0,
+          "negative": 0,
+          "neutral": 0,
+          "pos_pct": 0,
+          "top_comments": []
+        }
+      },
+      {
+        "title": "[BE.현장] 득점원 빠진 경남, 전술로 맞선다… 배성재 감독 \"크리스찬 패...",
+        "description": "안현범의 부상으로 인해 부산의 최후방이 다소 달라졌다는 이야기에 대해서는 \"조성환 감독님의 팀을 2년 정도 유심히 지켜보면서 느낀 건데, 경남과 할 때는 주로 스리백과 포백을 오가는 플레이를 펼치시더라. 오늘도... ",
+        "link": "https://m.sports.naver.com/kfootball/article/343/0000141276",
+        "originallink": "https://www.besteleven.com/news/articleView.html?idxno=305546",
+        "pubDate": "2026-04-04",
+        "sentiment": "중립",
+        "pos_pct": 0,
+        "neg_pct": 0,
+        "candidates_mentioned": [
+          "조성환"
+        ],
+        "is_joseonghwan": true,
+        "comments": {
+          "count": 0,
+          "positive": 0,
+          "negative": 0,
+          "neutral": 0,
+          "pos_pct": 0,
+          "top_comments": []
+        }
+      },
+      {
+        "title": "[BE.현장] 경남전 앞두고 승부수 던졌다… 조성환 감독 \"라인업 변화+빌...",
+        "description": "창원-김태석 기자 조성환 부산 아이파크 감독이 경남 FC전을 앞두고 선발 라인업에 변화를 꾀하면서 빌드업 구조가 이전 경기와는 다를 것이라고 예고했다. 조 감독이 이끄는 부산은 잠시 후인 5일 오후 4시 30분... ",
+        "link": "https://m.sports.naver.com/kfootball/article/343/0000141274",
+        "originallink": "https://www.besteleven.com/news/articleView.html?idxno=305543",
+        "pubDate": "2026-04-04",
+        "sentiment": "긍정",
+        "pos_pct": 100,
+        "neg_pct": 0,
+        "candidates_mentioned": [
+          "조성환"
+        ],
+        "is_joseonghwan": true,
+        "comments": {
+          "count": 0,
+          "positive": 0,
+          "negative": 0,
+          "neutral": 0,
+          "pos_pct": 0,
+          "top_comments": []
+        }
+      },
+      {
+        "title": "‘불금야구’ 한화 이글스 VS 두산 베어스",
+        "description": "지난 3일 첫 방송된 ‘불금야구’에서는 박용택X조성환 해설위원과 이호근 캐스터가 서울 잠실구장에서... 조성환 위원은 “6회에 와서야 드디어 분위기가 뜨거워지네요”라며 흥미로워했다. 그러나 7회에 한화는... ",
+        "link": "https://www.bntnews.co.kr/article/view/bnt202604040074",
+        "originallink": "https://www.bntnews.co.kr/article/view/bnt202604040074",
+        "pubDate": "2026-04-04",
+        "sentiment": "부정",
+        "pos_pct": 0,
+        "neg_pct": 100,
+        "candidates_mentioned": [
+          "조성환"
+        ],
+        "is_joseonghwan": true,
+        "comments": {
+          "count": 0,
+          "positive": 0,
+          "negative": 0,
+          "neutral": 0,
+          "pos_pct": 0,
+          "top_comments": []
+        }
+      },
+      {
+        "title": "'불금야구' 박용택, 페라자 홈런에 \"최신상 기술\" 극찬",
+        "description": "3일 처음 방송된 KBS 2TV '불금야구'에서는 박용택-조성환 해설위원과 이호근 캐스터가 서울 잠실구장에서... 조성환 위원은 \"6회에 와서야 드디어 분위기가 뜨거워진다\"라며 흥미로워했다. 그러나 7회에 한화는 두산에... ",
+        "link": "https://m.entertain.naver.com/article/421/0008869946",
+        "originallink": "https://www.news1.kr/entertain/broadcast-tv/6125312",
+        "pubDate": "2026-04-04",
+        "sentiment": "부정",
+        "pos_pct": 0,
+        "neg_pct": 100,
+        "candidates_mentioned": [
+          "조성환"
+        ],
+        "is_joseonghwan": true,
+        "comments": {
+          "count": 0,
+          "positive": 0,
+          "negative": 0,
+          "neutral": 0,
+          "pos_pct": 0,
+          "top_comments": []
+        }
+      },
+      {
+        "title": "‘불금야구’박용택 조성환 촌철살인“저건 최신상 기술, 우리 때만 해...",
+        "description": "3일 첫 방송된 ‘불금야구’에서는 박용택X조성환 해설위원과 이호근 캐스터가 서울 잠실구장에서 열린... 조성환 위원은 “6회에 와서야 드디어 분위기가 뜨거워지네요”라며 흥미로워했다. 그러나 7회에 한화는... ",
+        "link": "https://m.entertain.naver.com/article/609/0001110248",
+        "originallink": "https://www.newsen.com/news_view.php?uid=202604040858481210",
+        "pubDate": "2026-04-04",
+        "sentiment": "부정",
+        "pos_pct": 0,
+        "neg_pct": 100,
+        "candidates_mentioned": [
+          "조성환"
+        ],
+        "is_joseonghwan": true,
+        "comments": {
+          "count": 0,
+          "positive": 0,
+          "negative": 0,
+          "neutral": 0,
+          "pos_pct": 0,
+          "top_comments": []
+        }
+      }
+    ]
+  },
+  "articles": [
+    {
+      "title": "[SW포커스] ‘수난의 마운드’ QS 보기 어렵고, 뒷문도 흔들흔들",
+      "description": "조성환 KBS N 스포츠 해설위원은 “투수들의 몸 상태가 완전히 올라오지 않은 시기인 것을 감안해야 한다”고 말했다. 아직 페이스를 끌어올리는 과정에 있는 투수들이 적지 않다는 뜻이다. 정규리그는 144경기... ",
+      "link": "https://m.sports.naver.com/kbaseball/article/396/0000740809",
+      "originallink": "https://www.sportsworldi.com/newsView/20260405505777",
+      "pubDate": "2026-04-05",
+      "sentiment": "중립",
+      "pos_pct": 0,
+      "neg_pct": 0,
+      "candidates_mentioned": [
+        "조성환"
+      ],
+      "is_joseonghwan": true,
+      "comments": {
+        "count": 0,
+        "positive": 0,
+        "negative": 0,
+        "neutral": 0,
+        "pos_pct": 0,
+        "top_comments": []
+      }
+    },
+    {
+      "title": "크리스찬 발리골에 구상민 선방쇼... 부산, 경남 꺾고 K리그2 1위 등극",
+      "description": "조성환 감독이 이끄는 부산 아이파크는 지난 4일 오후 4시 30분 창원 축구센터에서 열린 2026 K리그2 경남... 감독 : 조성환) FW : 크리스찬(78분↔김찬), 박혜성(46분↔김민혁) MF : 손휘(46분↔김현민), 이동수, 손준석... ",
+      "link": "https://m.sports.naver.com/kfootball/article/047/0002510773",
+      "originallink": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003221452&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
+      "pubDate": "2026-04-05",
+      "sentiment": "중립",
+      "pos_pct": 0,
+      "neg_pct": 0,
+      "candidates_mentioned": [
+        "조성환"
+      ],
+      "is_joseonghwan": true,
+      "comments": {
+        "count": 0,
+        "positive": 0,
+        "negative": 0,
+        "neutral": 0,
+        "pos_pct": 0,
+        "top_comments": []
+      }
+    },
+    {
+      "title": "인천시 계양구 자율방범대, 2026년 출정식 개최",
+      "description": "촘촘한 안전망 구축  인천 계양구 자율방범대(연합대장 조성환)는 지난 1일 저녁 계양구청 1층 로비에서 ‘2026년 자율방범대 출정식’을 개최했다. 이날 출정식에는 자율방범연합대와 각 동 자율방범대원 120여 명이... ",
+      "link": "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160281556272358",
+      "originallink": "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160281556272358",
+      "pubDate": "2026-04-05",
+      "sentiment": "중립",
+      "pos_pct": 0,
+      "neg_pct": 0,
+      "candidates_mentioned": [
+        "조성환"
+      ],
+      "is_joseonghwan": true,
+      "comments": {
+        "count": 0,
+        "positive": 0,
+        "negative": 0,
+        "neutral": 0,
+        "pos_pct": 0,
+        "top_comments": []
+      }
+    },
+    {
+      "title": "\"접경지역 역차별 끝낼까\"…파주 10만 시민이 국토부로 달려간 까닭은?",
+      "description": "시와 시민추진단은 교통 인프라 공급이 주택시장 안정과 수도권 균형 발전을 유도한다는 인과관계를 강조하며 정부를 설득하고 있다. 시는 평화경제특구, 경제자유구역 후보지 지정, 메디컬클러스터 등 대형 개발... ",
+      "link": "https://www.cnbnews.com/news/article.html?no=787637",
+      "originallink": "https://www.cnbnews.com/news/article.html?no=787637",
+      "pubDate": "2026-04-05",
+      "sentiment": "긍정",
+      "pos_pct": 100,
+      "neg_pct": 0,
+      "candidates_mentioned": [],
+      "is_joseonghwan": false,
+      "comments": {
+        "count": 0,
+        "positive": 0,
+        "negative": 0,
+        "neutral": 0,
+        "pos_pct": 0,
+        "top_comments": []
+      }
+    },
+    {
+      "title": "파주시, 경제자유구역 바이오 컨퍼런스 개최",
+      "description": "김경일 파주시장(앞줄 가운데)을 비롯한 파주시 관계자들이 지난 2일 한국프레스센터 국제회의장에서... 컨퍼런스는 파주시가 주최하고 한국제약바이오협회가 후원해 개최됐으며, 파주 경제자유구역 후보지의 핵심... ",
+      "link": "https://www.joongboo.com/news/articleView.html?idxno=363721835",
+      "originallink": "https://www.joongboo.com/news/articleView.html?idxno=363721835",
+      "pubDate": "2026-04-05",
+      "sentiment": "중립",
+      "pos_pct": 0,
+      "neg_pct": 0,
+      "candidates_mentioned": [],
+      "is_joseonghwan": false,
+      "comments": {
+        "count": 0,
+        "positive": 0,
+        "negative": 0,
+        "neutral": 0,
+        "pos_pct": 0,
+        "top_comments": []
+      }
+    },
+    {
+      "title": "반려가족·시민 함께 웃는 파주…이용욱, 반려동물 공약 발표",
+      "description": "이용욱 파주시장 예비후보는 지난 3일, 반려동물과 시민이 함께 안전하게 공존하는 '반려동물 친화도시 파주' 조성을 위한 5대 핵심 공약을 발표하며, 반려동물은 단순한 존재가 아닌 가족의 구성원으로 자리 잡은 만큼... ",
+      "link": "https://www.fntoday.co.kr/news/articleView.html?idxno=381555",
+      "originallink": "https://www.fntoday.co.kr/news/articleView.html?idxno=381555",
+      "pubDate": "2026-04-05",
+      "sentiment": "긍정",
+      "pos_pct": 100,
+      "neg_pct": 0,
+      "candidates_mentioned": [
+        "이용욱"
+      ],
+      "is_joseonghwan": false,
+      "comments": {
+        "count": 0,
+        "positive": 0,
+        "negative": 0,
+        "neutral": 0,
+        "pos_pct": 0,
+        "top_comments": []
+      }
+    },
+    {
+      "title": "\"금촌동 침체 막아야\"…파주시의회 이익선 의원, 4개 활성화 방안 제시",
+      "description": "교통 인프라 개선 방안으로는 지하철 3호선 파주 연장의 경제성 확보 대책과 더불어 ‘전철 통일로선(삼송~금촌)’의 제5차 국가철도망 구축계획 반영을 강조했다. 광역 교통 접근성 강화 없이는 인구 유입을 기대하기... ",
+      "link": "https://www.cnbnews.com/news/article.html?no=787626",
+      "originallink": "https://www.cnbnews.com/news/article.html?no=787626",
+      "pubDate": "2026-04-05",
+      "sentiment": "긍정",
+      "pos_pct": 100,
+      "neg_pct": 0,
+      "candidates_mentioned": [],
+      "is_joseonghwan": false,
+      "comments": {
+        "count": 0,
+        "positive": 0,
+        "negative": 0,
+        "neutral": 0,
+        "pos_pct": 0,
+        "top_comments": []
+      }
+    },
+    {
+      "title": "파주시, 당해 1회 추경 603억 증액…지역화폐엔 269억",
+      "description": "파주시 1회 추경예산 확정. (사진=파주시) 고물가와 소비 위축으로 지역 경제 침체가 깊어지는 가운데... 탄소중립 실현을 위한 공공 재생에너지 생산기지 조성에 30억을 투입하며, 접경지역 특수성을 활용한... ",
+      "link": "https://www.cnbnews.com/news/article.html?no=787628",
+      "originallink": "https://www.cnbnews.com/news/article.html?no=787628",
+      "pubDate": "2026-04-05",
+      "sentiment": "긍정",
+      "pos_pct": 100,
+      "neg_pct": 0,
+      "candidates_mentioned": [],
+      "is_joseonghwan": false,
+      "comments": {
+        "count": 0,
+        "positive": 0,
+        "negative": 0,
+        "neutral": 0,
+        "pos_pct": 0,
+        "top_comments": []
+      }
+    },
+    {
+      "title": "[패트롤] 동두천시의회-양주시의회-연천군의회-파주시의회",
+      "description": "본회의에서 '연천군 접경지역 안전 확보 조례안'을 발의해 본회의 의결을 끌어냈다. 이번 조례안은 남북... 파주=에너지경제신문 강근주기자 파주시의회는 지난 3일 2차 본회의를 끝으로 제262회 임시회를 폐회하고 10일간... ",
+      "link": "https://www.ekn.kr/web/view.php?key=20260405024464300",
+      "originallink": "https://www.ekn.kr/web/view.php?key=20260405024464300",
+      "pubDate": "2026-04-05",
+      "sentiment": "긍정",
+      "pos_pct": 100,
+      "neg_pct": 0,
+      "candidates_mentioned": [],
+      "is_joseonghwan": false,
+      "comments": {
+        "count": 0,
+        "positive": 0,
+        "negative": 0,
+        "neutral": 0,
+        "pos_pct": 0,
+        "top_comments": []
+      }
+    },
+    {
+      "title": "파주, 제1회 추경 2조4202억원 확정",
+      "description": "경기 파주시는 2026년 제1회 추가경정예산이 지난 3일 최종 확정됐다고 5일 밝혔다. 이번 추경은 당초... 지속가능한 발전 동력 확보에도 힘을 싣는다. 시민 생활 기반시설 확충을 위한 다양한 사업 추진에도 상당한... ",
+      "link": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5008110",
+      "originallink": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5008110",
+      "pubDate": "2026-04-05",
+      "sentiment": "긍정",
+      "pos_pct": 100,
+      "neg_pct": 0,
+      "candidates_mentioned": [],
+      "is_joseonghwan": false,
+      "comments": {
+        "count": 0,
+        "positive": 0,
+        "negative": 0,
+        "neutral": 0,
+        "pos_pct": 0,
+        "top_comments": []
+      }
+    },
+    {
+      "title": "하버드 이어 스탠퍼드까지…파주시에 모이는 세계적 바이오 두뇌들",
+      "description": "바이오산업 발전을 위한 실질적 협력의향서(LOI)를 확보하며 국제적 연구 협력 지형을 확장했다. 성과는 지난해 파주시가 미국 MIT·하버드 공동연구기관인 브로드 연구소와 맺은 협력 체계의 연장선상에 있다. 특히... ",
+      "link": "https://www.cnbnews.com/news/article.html?no=787636",
+      "originallink": "https://www.cnbnews.com/news/article.html?no=787636",
+      "pubDate": "2026-04-05",
+      "sentiment": "긍정",
+      "pos_pct": 100,
+      "neg_pct": 0,
+      "candidates_mentioned": [],
+      "is_joseonghwan": false,
+      "comments": {
+        "count": 0,
+        "positive": 0,
+        "negative": 0,
+        "neutral": 0,
+        "pos_pct": 0,
+        "top_comments": []
+      }
+    },
+    {
+      "title": "파주시 '2026 경제자유구역 바이오 컨퍼런스' 성료",
+      "description": "이날 행사에서는 스탠퍼드대학교 의과대학 신경외과 교수인 마이클 림 교수가 파주 경제자유구역 바이오산업 발전을 위한 협력의향서를 파주시에 전달하며 향후 협력 의지를 밝혔다. 파주시는 지난해 미국 MIT·하버드... ",
+      "link": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1245171",
+      "originallink": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1245171",
+      "pubDate": "2026-04-05",
+      "sentiment": "긍정",
+      "pos_pct": 100,
+      "neg_pct": 0,
+      "candidates_mentioned": [],
+      "is_joseonghwan": false,
+      "comments": {
+        "count": 0,
+        "positive": 0,
+        "negative": 0,
+        "neutral": 0,
+        "pos_pct": 0,
+        "top_comments": []
+      }
+    },
+    {
+      "title": "파주시, 경제자유구역 바이오 시동…산학연 글로벌 협력 체계 구축 본격...",
+      "description": "행사에서는 마이클 림 스탠퍼드대 의과대학 신경외과 교수가 파주 경제자유구역 바이오산업 발전을 위한 협력의향서(LOI)를 파주시에 전달했다. 파주시는 지난해 미국 매사추세츠공과대학(MIT)·하버드대... ",
+      "link": "https://n.news.naver.com/mnews/article/030/0003414675?sid=101",
+      "originallink": "https://www.etnews.com/20260405000067",
+      "pubDate": "2026-04-05",
+      "sentiment": "긍정",
+      "pos_pct": 100,
+      "neg_pct": 0,
+      "candidates_mentioned": [],
+      "is_joseonghwan": false,
+      "comments": {
+        "count": 0,
+        "positive": 0,
+        "negative": 0,
+        "neutral": 0,
+        "pos_pct": 0,
+        "top_comments": []
+      }
+    },
+    {
+      "title": "[패트롤] 고양시-김포시-남양주시-양주시-파주시",
+      "description": "산업 발전을 위해 다양한 기업을 유치하고 기업지원 정책을 이어갈 것\"이라고 말했다. 한편 올해 1월... 파주=에너지경제신문 강근주기자 파주시가 올해부터 소득 기준을 전면 폐지함에 따라 '파주시 아빠 육아휴직 장려금... ",
+      "link": "https://www.ekn.kr/web/view.php?key=20260405027384356",
+      "originallink": "https://www.ekn.kr/web/view.php?key=20260405027384356",
+      "pubDate": "2026-04-05",
+      "sentiment": "긍정",
+      "pos_pct": 100,
+      "neg_pct": 0,
+      "candidates_mentioned": [],
+      "is_joseonghwan": false,
+      "comments": {
+        "count": 0,
+        "positive": 0,
+        "negative": 0,
+        "neutral": 0,
+        "pos_pct": 0,
+        "top_comments": []
+      }
+    },
+    {
+      "title": "대형마트 휴무일? 이마트·롯데마트·홈플러스·코스트코 ‘할인대전’",
+      "description": "국내 대형마트는 유통산업발전법에 따라 매월 둘째·넷째 일요일 의무휴무일로 지정, 쉬는 날이다. 2026년... 지자체 자료에 따르면 수요일을 의무휴업일로 지정한 시군은 경기 고양, 남양주, 안양, 파주, 김포, 오산, 하남... ",
+      "link": "https://www.bntnews.co.kr/article/view/bnt202604040080",
+      "originallink": "https://www.bntnews.co.kr/article/view/bnt202604040080",
+      "pubDate": "2026-04-05",
+      "sentiment": "긍정",
+      "pos_pct": 100,
+      "neg_pct": 0,
+      "candidates_mentioned": [],
+      "is_joseonghwan": false,
+      "comments": {
+        "count": 0,
+        "positive": 0,
+        "negative": 0,
+        "neutral": 0,
+        "pos_pct": 0,
+        "top_comments": []
+      }
+    },
+    {
+      "title": "코스탈,  신공장 준공으로 '제2 비상 도약한다'",
+      "description": "전기, 전력용 비철금속 재료 및 가공 제품 전문업체인 코스탈(주)(대표이사 이재필)이 경기도 파주... 코스탈은 기계 및 전력산업의 고용량 수요를 기반으로 비철금속 생산 및 가공 기술 개발에서 경쟁력을 확보하고... ",
+      "link": "http://www.knpnews.com/news/articleView.html?idxno=33575",
+      "originallink": "http://www.knpnews.com/news/articleView.html?idxno=33575",
+      "pubDate": "2026-04-05",
+      "sentiment": "긍정",
+      "pos_pct": 100,
+      "neg_pct": 0,
+      "candidates_mentioned": [],
+      "is_joseonghwan": false,
+      "comments": {
+        "count": 0,
+        "positive": 0,
+        "negative": 0,
+        "neutral": 0,
+        "pos_pct": 0,
+        "top_comments": []
+      }
+    },
+    {
+      "title": "파주출판도시, 'AI기반 콘텐츠 도시'로 탈바꿈 기대",
+      "description": "사업이 완료되면 서울·판교로 향하던 청년 인재들이 파주에서 양질의 첨단 콘텐츠 일자리를 얻을 수 있는 기반이 마련될 것으로 기대된다. 파주시 관계자는 \"파주 출판도시는 대한민국 콘텐츠 산업의 뿌리를 품고 있는... ",
+      "link": "https://n.news.naver.com/mnews/article/003/0013867568?sid=102",
+      "originallink": "https://www.newsis.com/view/NISX20260403_0003576770",
+      "pubDate": "2026-04-05",
+      "sentiment": "긍정",
+      "pos_pct": 100,
+      "neg_pct": 0,
+      "candidates_mentioned": [],
+      "is_joseonghwan": false,
+      "comments": {
+        "count": 0,
+        "positive": 0,
+        "negative": 0,
+        "neutral": 0,
+        "pos_pct": 0,
+        "top_comments": []
+      }
+    },
+    {
+      "title": "파주시, 1회 추경 2조4202억원 확정…지역화폐 269억 예산 편성",
+      "description": "경기 파주시는 2026년도 제1회 추가경정예산이 지난 3일 시의회를 통과해 최종 확정됐다고 5일 밝혔다. 이번... 세대통합 복합지원센터 건립 70억원, 운정4동 행정복지센터 건립 48억원, 반다비 국민체육센터 건립 32억원... ",
+      "link": "https://n.news.naver.com/mnews/article/030/0003414670?sid=101",
+      "originallink": "https://www.etnews.com/20260405000062",
+      "pubDate": "2026-04-05",
+      "sentiment": "긍정",
+      "pos_pct": 100,
+      "neg_pct": 0,
+      "candidates_mentioned": [],
+      "is_joseonghwan": false,
+      "comments": {
+        "count": 0,
+        "positive": 0,
+        "negative": 0,
+        "neutral": 0,
+        "pos_pct": 0,
+        "top_comments": []
+      }
+    },
+    {
+      "title": "파주문화재단, 가가호호 운영기관 선정…국비 5천만 원 확보",
+      "description": "사진=파주문화재단 파주문화재단은 한국문화예술교육진흥원이 주관하는 2026 생활밀착형 문화예술교육 지원사업 '가가호호' 운영기관에 선정돼 국비 5천만 원을 확보했다고 5일 밝혔다. '가가호호'는 가족이 생활... ",
+      "link": "https://www.joongboo.com/news/articleView.html?idxno=363721832",
+      "originallink": "https://www.joongboo.com/news/articleView.html?idxno=363721832",
+      "pubDate": "2026-04-05",
+      "sentiment": "중립",
+      "pos_pct": 0,
+      "neg_pct": 0,
+      "candidates_mentioned": [],
+      "is_joseonghwan": false,
+      "comments": {
+        "count": 0,
+        "positive": 0,
+        "negative": 0,
+        "neutral": 0,
+        "pos_pct": 0,
+        "top_comments": []
+      }
+    },
+    {
+      "title": "\"장관땐 뭐하고\" \"정치인은 구호만\"…경기교육감 진보후보들 신경전",
+      "description": "하더라도 교육감이 바뀌면서 또 지원과 예산이 줄고 그러면서 지속 가능하지 않았다\"고 반박했다. 안 후보는 현재 파주 등에서 운영 중인 학생통학버스를 경기도 전역으로 확대한 무상 에듀버스, 중학교 1학년에게 펀드로... ",
+      "link": "https://n.news.naver.com/mnews/article/001/0016002958?sid=102",
+      "originallink": "https://www.yna.co.kr/view/AKR20260405020900061?input=1195m",
+      "pubDate": "2026-04-05",
+      "sentiment": "중립",
+      "pos_pct": 0,
+      "neg_pct": 0,
+      "candidates_mentioned": [],
+      "is_joseonghwan": false,
+      "comments": {
+        "count": 4,
+        "positive": 0,
+        "negative": 0,
+        "neutral": 4,
+        "pos_pct": 0,
+        "top_comments": [
+          {
+            "text": "민석이 또\n기어나오네\n사기꾼",
+            "likes": 1,
+            "dislikes": 0,
+            "date": "2026-04-05T15:13:46+0900"
+          },
+          {
+            "text": "교육청에 이권이 얼마나 많이 걸려 있길래 국회의원 몇 번씩 한 인간들까지 교육감 선거에 출마하는 거냐 ㄷㄷㄷ",
+            "likes": 1,
+            "dislikes": 0,
+            "date": "2026-04-05T15:10:15+0900"
+          },
+          {
+            "text": "그밥의그나물이지 안민석은 왜나왔냐ㅋㅋ",
+            "likes": 1,
+            "dislikes": 0,
+            "date": "2026-04-05T15:09:26+0900"
+          },
+          {
+            "text": "‘유일한’ 필승카드 ‘유은혜’ 힘내세요",
+            "likes": 1,
+            "dislikes": 0,
+            "date": "2026-04-05T11:51:43+0900"
+          }
+        ]
+      }
+    },
+    {
+      "title": "경기테크노파크, 2026 파주시 청년창업 활성화 지원사업 참여기업 모집",
+      "description": "창업 역량 강화 교육부터 초기사업비 지원까지 체계적으로 연계해 청년들의 창업 아이디어가 실제 사업으로 이어질 수 있도록 돕고, 특히 파주청년창업지원센터 입주 기회를 제공하는 등 단계별 창업 지원 프로그램으로... ",
+      "link": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5007914",
+      "originallink": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5007914",
+      "pubDate": "2026-04-05",
+      "sentiment": "긍정",
+      "pos_pct": 100,
+      "neg_pct": 0,
+      "candidates_mentioned": [],
+      "is_joseonghwan": false,
+      "comments": {
+        "count": 0,
+        "positive": 0,
+        "negative": 0,
+        "neutral": 0,
+        "pos_pct": 0,
+        "top_comments": []
+      }
+    },
+    {
+      "title": "[BE.현장] \"프로 감독 되고 첫 5연승!\" 파죽지세를 즐기는 조성환 부산 ...",
+      "description": "창원-김태석 기자 조성환 부산 아이파크 감독이 팀의 5연승 행진에 기뻐했다. 무엇보다 프로 감독 커리어 처음으로 경험하는 5연승이라는 점에서 만면에 미소를 지으며 승리를 즐겼다. 조성환 감독이 이끄는 부산은 4일... ",
+      "link": "https://m.sports.naver.com/kfootball/article/343/0000141281",
+      "originallink": "https://www.besteleven.com/news/articleView.html?idxno=305551",
+      "pubDate": "2026-04-04",
+      "sentiment": "긍정",
+      "pos_pct": 100,
+      "neg_pct": 0,
+      "candidates_mentioned": [
+        "조성환"
+      ],
+      "is_joseonghwan": true,
+      "comments": {
+        "count": 0,
+        "positive": 0,
+        "negative": 0,
+        "neutral": 0,
+        "pos_pct": 0,
+        "top_comments": []
+      }
+    },
+    {
+      "title": "[BE.현장] 3년 만에 5연승 폭발+조성환 감독 부임 후 최다 연승…부산, ...",
+      "description": "조성환 감독 체제가 들어선 후 최다 연승이며, 수원 삼성의 라운드 결과를 지켜봐야겠지만 현 시점에서는 K리그2 선두에 이름을 올렸다. 조성환 감독이 이끄는 부산은 4일 오후 4시 30분 창원축구센터에서 벌어졌던... ",
+      "link": "https://m.sports.naver.com/kfootball/article/343/0000141277",
+      "originallink": "https://www.besteleven.com/news/articleView.html?idxno=305547",
+      "pubDate": "2026-04-04",
+      "sentiment": "긍정",
+      "pos_pct": 100,
+      "neg_pct": 0,
+      "candidates_mentioned": [
+        "조성환"
+      ],
+      "is_joseonghwan": true,
+      "comments": {
+        "count": 0,
+        "positive": 0,
+        "negative": 0,
+        "neutral": 0,
+        "pos_pct": 0,
+        "top_comments": []
+      }
+    },
+    {
+      "title": "[BE.현장] 득점원 빠진 경남, 전술로 맞선다… 배성재 감독 \"크리스찬 패...",
+      "description": "안현범의 부상으로 인해 부산의 최후방이 다소 달라졌다는 이야기에 대해서는 \"조성환 감독님의 팀을 2년 정도 유심히 지켜보면서 느낀 건데, 경남과 할 때는 주로 스리백과 포백을 오가는 플레이를 펼치시더라. 오늘도... ",
+      "link": "https://m.sports.naver.com/kfootball/article/343/0000141276",
+      "originallink": "https://www.besteleven.com/news/articleView.html?idxno=305546",
+      "pubDate": "2026-04-04",
+      "sentiment": "중립",
+      "pos_pct": 0,
+      "neg_pct": 0,
+      "candidates_mentioned": [
+        "조성환"
+      ],
+      "is_joseonghwan": true,
+      "comments": {
+        "count": 0,
+        "positive": 0,
+        "negative": 0,
+        "neutral": 0,
+        "pos_pct": 0,
+        "top_comments": []
+      }
+    },
+    {
+      "title": "[BE.현장] 경남전 앞두고 승부수 던졌다… 조성환 감독 \"라인업 변화+빌...",
+      "description": "창원-김태석 기자 조성환 부산 아이파크 감독이 경남 FC전을 앞두고 선발 라인업에 변화를 꾀하면서 빌드업 구조가 이전 경기와는 다를 것이라고 예고했다. 조 감독이 이끄는 부산은 잠시 후인 5일 오후 4시 30분... ",
+      "link": "https://m.sports.naver.com/kfootball/article/343/0000141274",
+      "originallink": "https://www.besteleven.com/news/articleView.html?idxno=305543",
+      "pubDate": "2026-04-04",
+      "sentiment": "긍정",
+      "pos_pct": 100,
+      "neg_pct": 0,
+      "candidates_mentioned": [
+        "조성환"
+      ],
+      "is_joseonghwan": true,
+      "comments": {
+        "count": 0,
+        "positive": 0,
+        "negative": 0,
+        "neutral": 0,
+        "pos_pct": 0,
+        "top_comments": []
+      }
+    },
+    {
+      "title": "‘불금야구’ 한화 이글스 VS 두산 베어스",
+      "description": "지난 3일 첫 방송된 ‘불금야구’에서는 박용택X조성환 해설위원과 이호근 캐스터가 서울 잠실구장에서... 조성환 위원은 “6회에 와서야 드디어 분위기가 뜨거워지네요”라며 흥미로워했다. 그러나 7회에 한화는... ",
+      "link": "https://www.bntnews.co.kr/article/view/bnt202604040074",
+      "originallink": "https://www.bntnews.co.kr/article/view/bnt202604040074",
+      "pubDate": "2026-04-04",
+      "sentiment": "부정",
+      "pos_pct": 0,
+      "neg_pct": 100,
+      "candidates_mentioned": [
+        "조성환"
+      ],
+      "is_joseonghwan": true,
+      "comments": {
+        "count": 0,
+        "positive": 0,
+        "negative": 0,
+        "neutral": 0,
+        "pos_pct": 0,
+        "top_comments": []
+      }
+    },
+    {
+      "title": "'불금야구' 박용택, 페라자 홈런에 \"최신상 기술\" 극찬",
+      "description": "3일 처음 방송된 KBS 2TV '불금야구'에서는 박용택-조성환 해설위원과 이호근 캐스터가 서울 잠실구장에서... 조성환 위원은 \"6회에 와서야 드디어 분위기가 뜨거워진다\"라며 흥미로워했다. 그러나 7회에 한화는 두산에... ",
+      "link": "https://m.entertain.naver.com/article/421/0008869946",
+      "originallink": "https://www.news1.kr/entertain/broadcast-tv/6125312",
+      "pubDate": "2026-04-04",
+      "sentiment": "부정",
+      "pos_pct": 0,
+      "neg_pct": 100,
+      "candidates_mentioned": [
+        "조성환"
+      ],
+      "is_joseonghwan": true,
+      "comments": {
+        "count": 0,
+        "positive": 0,
+        "negative": 0,
+        "neutral": 0,
+        "pos_pct": 0,
+        "top_comments": []
+      }
+    },
+    {
+      "title": "‘불금야구’박용택 조성환 촌철살인“저건 최신상 기술, 우리 때만 해...",
+      "description": "3일 첫 방송된 ‘불금야구’에서는 박용택X조성환 해설위원과 이호근 캐스터가 서울 잠실구장에서 열린... 조성환 위원은 “6회에 와서야 드디어 분위기가 뜨거워지네요”라며 흥미로워했다. 그러나 7회에 한화는... ",
+      "link": "https://m.entertain.naver.com/article/609/0001110248",
+      "originallink": "https://www.newsen.com/news_view.php?uid=202604040858481210",
+      "pubDate": "2026-04-04",
+      "sentiment": "부정",
+      "pos_pct": 0,
+      "neg_pct": 100,
+      "candidates_mentioned": [
+        "조성환"
+      ],
+      "is_joseonghwan": true,
+      "comments": {
+        "count": 0,
+        "positive": 0,
+        "negative": 0,
+        "neutral": 0,
+        "pos_pct": 0,
+        "top_comments": []
+      }
+    },
+    {
+      "title": "“나오면 안 되는 장면” 박용택, 한화 투수도 쏘았다",
+      "description": "박용택·조성환 해설위원과 이호근 캐스터가 중계석을 맡았다. 본방송에 앞서 KBS 스포츠 공식 유튜브에서는... 조성환 위원은 “6회에 와서야 드디어 분위기가 뜨거워지네요”라고 했다. 그러나 7회 한화가 4점을 추가해... ",
+      "link": "https://m.sports.naver.com/kbaseball/article/144/0001107736",
+      "originallink": "https://sports.khan.co.kr/article/202604040839003?pt=nv",
+      "pubDate": "2026-04-04",
+      "sentiment": "부정",
+      "pos_pct": 0,
+      "neg_pct": 100,
+      "candidates_mentioned": [
+        "조성환"
+      ],
+      "is_joseonghwan": true,
+      "comments": {
+        "count": 0,
+        "positive": 0,
+        "negative": 0,
+        "neutral": 0,
+        "pos_pct": 0,
+        "top_comments": []
+      }
+    },
+    {
+      "title": "박용택·조성환, '불금야구' 첫 경기 해설...한화 11-6 승리",
+      "description": "3일 서울 잠실구장에서 열린 KBO리그 정규시즌 경기에서는 박용택, 조성환 해설위원과 이호근 캐스터가... 조성환 위원은 \"6회에 와서야 드디어 분위기가 뜨거워지네요\"라고 했다. 하지만 한화는 7회 다시 4점을 추가해 11... ",
+      "link": "https://www.slist.kr/news/articleView.html?idxno=729155",
+      "originallink": "https://www.slist.kr/news/articleView.html?idxno=729155",
+      "pubDate": "2026-04-04",
+      "sentiment": "부정",
+      "pos_pct": 0,
+      "neg_pct": 100,
+      "candidates_mentioned": [
+        "조성환"
+      ],
+      "is_joseonghwan": true,
+      "comments": {
+        "count": 0,
+        "positive": 0,
+        "negative": 0,
+        "neutral": 0,
+        "pos_pct": 0,
+        "top_comments": []
+      }
+    },
+    {
+      "title": "박용택, \"최신상 기술\" 언급한 한화 페라자 홈런…'불금야구' 첫 경기 달...",
+      "description": "박용택 해설위원과 조성환 해설위원, 이호근 캐스터가 잠실구장에서 열린 KBO리그 정규 시즌 경기를 현장에서... 조성환 위원은 \"6회에 와서야 드디어 분위기가 뜨거워지네요\"라고 말하며 그제야 동점권을 향한 흐름이... ",
+      "link": "https://www.topstarnews.net/news/articleView.html?idxno=16025262",
+      "originallink": "https://www.topstarnews.net/news/articleView.html?idxno=16025262",
+      "pubDate": "2026-04-04",
+      "sentiment": "부정",
+      "pos_pct": 0,
+      "neg_pct": 100,
+      "candidates_mentioned": [
+        "조성환"
+      ],
+      "is_joseonghwan": true,
+      "comments": {
+        "count": 0,
+        "positive": 0,
+        "negative": 0,
+        "neutral": 0,
+        "pos_pct": 0,
+        "top_comments": []
+      }
+    },
+    {
+      "title": "D-60일 [6·3지선, 경기지역 이모저모] 탄핵 1년 메시지부터 현장 행보까...",
+      "description": "박용호 국민의힘 파주시장 예비후보는 당내 경선을 통과한 이후 본선 체제로 전환하는 메시지를 내놨다. 그는 \"공정과 정직을 회복하겠다\"고 밝히며 지역 정치에 대한 문제의식을 드러냈고, 과거 특혜 논란 등을 언급하며... ",
+      "link": "http://www.joongang.tv/news/articleView.html?idxno=214401",
+      "originallink": "http://www.joongang.tv/news/articleView.html?idxno=214401",
+      "pubDate": "2026-04-04",
+      "sentiment": "부정",
+      "pos_pct": 0,
+      "neg_pct": 100,
+      "candidates_mentioned": [
+        "박용호"
+      ],
+      "is_joseonghwan": false,
+      "comments": {
+        "count": 0,
+        "positive": 0,
+        "negative": 0,
+        "neutral": 0,
+        "pos_pct": 0,
+        "top_comments": []
+      }
+    },
+    {
+      "title": "주호영 ‘컷오프 가처분 신청’ 기각… 국힘, 대구 경선 6인 유지",
+      "description": "한편 국민의힘은 2일 경기 고양시장 후보에 이동환 현 고양시장, 경기 파주시장에 박용호 전 대통령 직속 청년위원장, 경남 창원시장에 강기윤 전 의원을 후보로 공천했다.",
+      "link": "https://n.news.naver.com/mnews/article/020/0003709702?sid=162",
+      "originallink": "https://www.donga.com/news/Politics/article/all/20260403/133673469/2",
+      "pubDate": "2026-04-04",
+      "sentiment": "긍정",
+      "pos_pct": 100,
+      "neg_pct": 0,
+      "candidates_mentioned": [
+        "박용호"
+      ],
+      "is_joseonghwan": false,
+      "comments": {
+        "count": 5,
+        "positive": 0,
+        "negative": 0,
+        "neutral": 5,
+        "pos_pct": 0,
+        "top_comments": [
+          {
+            "text": "잘된  판결이다.  주호영의원은  원내활동에 전념하라.  차기 국회의장을  염두에 두라. 이진숙장관도  떼쓰지말고  차선의 길을  찾으라.  무리하면  자신도  당도 더 어려워질 뿐이다.",
+            "likes": 1,
+            "dislikes": 0,
+            "date": "2026-04-04T19:00:06+0900"
+          },
+          {
+            "text": "친중세력 신좌파로 기울어지나요?",
+            "likes": 0,
+            "dislikes": 0,
+            "date": "2026-04-04T10:34:06+0900"
+          },
+          {
+            "text": "찐보수도 아니고 한동후랕이 6선까지 해먹은 보수당을 회색  정체성으로 보수당 흔들고 궤멸시킵니까?",
+            "likes": 0,
+            "dislikes": 0,
+            "date": "2026-04-04T10:33:05+0900"
+          },
+          {
+            "text": "어차피 출마해도 안돼~~~",
+            "likes": 0,
+            "dislikes": 0,
+            "date": "2026-04-04T09:43:05+0900"
+          },
+          {
+            "text": "가처분 기각은 한동훈 보선 막을려는 꼼수에 법원도 합세한 거 아닌가싶네요? 주호영 시장&amp;한동훈 수성구 보궐선거 연대가 겁이 나는거죠.",
+            "likes": 1,
+            "dislikes": 1,
+            "date": "2026-04-04T08:58:27+0900"
+          }
+        ]
+      }
+    },
+    {
+      "title": "[패트롤] 고양시-김포시-남양주시-양주시-파주시",
+      "description": "편의부터 교통혼잡 대응-재난 안전까지 잡는다. 올해 김포시는 관내 인구이동-상권분석-기업정보 등 실시간... 파주=에너지경제신문 강근주기자 파주시 2026년 제1회 추가경정예산이 3일 최종 확정됐다. 이번 추경은 당초... ",
+      "link": "https://www.ekn.kr/web/view.php?key=20260404020264191",
+      "originallink": "https://www.ekn.kr/web/view.php?key=20260404020264191",
+      "pubDate": "2026-04-04",
+      "sentiment": "긍정",
+      "pos_pct": 100,
+      "neg_pct": 0,
+      "candidates_mentioned": [],
+      "is_joseonghwan": false,
+      "comments": {
+        "count": 0,
+        "positive": 0,
+        "negative": 0,
+        "neutral": 0,
+        "pos_pct": 0,
+        "top_comments": []
+      }
+    },
+    {
+      "title": "군사 강국은 말뿐?… \"지뢰 관리는 동남아보다 못하다\"",
+      "description": "(민통선) 지역 등 접경지는 사실상 지뢰 위험에 그대로 노출된 지역인 사실을 인정해야 한다\"고 꼬집었다.... 김기호 지뢰제거연구소장이 파주 덕진산성에 올라 민통선 지역을 바라보고 있다. 사진=최재순기자 김 소장은... ",
+      "link": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3059873",
+      "originallink": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3059873",
+      "pubDate": "2026-04-04",
+      "sentiment": "중립",
+      "pos_pct": 0,
+      "neg_pct": 0,
+      "candidates_mentioned": [],
+      "is_joseonghwan": false,
+      "comments": {
+        "count": 0,
+        "positive": 0,
+        "negative": 0,
+        "neutral": 0,
+        "pos_pct": 0,
+        "top_comments": []
+      }
+    },
+    {
+      "title": "'DMZ 평화의 길' 전면 개방...인천·경기·강원 접경 10개 지역 12개 테마...",
+      "description": "테마노선은 인천(강화군), 경기(김포시·고양시·파주시·연천군), 강원(철원군·화천군·양구군·인제군·고성군) 등 비무장지대(DMZ) 10개 접경 지역에서 생태·문화·역사 자원을 통해 국민이 평화와 안보의 소중함을... ",
+      "link": "http://www.econonews.co.kr/news/articleView.html?idxno=434107",
+      "originallink": "http://www.econonews.co.kr/news/articleView.html?idxno=434107",
+      "pubDate": "2026-04-04",
+      "sentiment": "중립",
+      "pos_pct": 0,
+      "neg_pct": 0,
+      "candidates_mentioned": [],
+      "is_joseonghwan": false,
+      "comments": {
+        "count": 0,
+        "positive": 0,
+        "negative": 0,
+        "neutral": 0,
+        "pos_pct": 0,
+        "top_comments": []
+      }
+    },
+    {
+      "title": "파주시의회, 제262회 임시회 폐회",
+      "description": "박대성 의장은 “이번 임시회를 통해 편성된 추가경정예산이 신속히 집행돼 어려운 민생경제 회복에 실질적인 도움이 되기를 기대한다”며 “심도 있게 논의된 각종 안건들이 파주시 발전과 시민 복리 증진을 위해... ",
+      "link": "http://www.globalepic.co.kr/view.php?ud=2026040314382139855f69d33b22_29",
+      "originallink": "http://www.globalepic.co.kr/view.php?ud=2026040314382139855f69d33b22_29",
+      "pubDate": "2026-04-04",
+      "sentiment": "긍정",
+      "pos_pct": 100,
+      "neg_pct": 0,
+      "candidates_mentioned": [],
+      "is_joseonghwan": false,
+      "comments": {
+        "count": 0,
+        "positive": 0,
+        "negative": 0,
+        "neutral": 0,
+        "pos_pct": 0,
+        "top_comments": []
+      }
+    },
+    {
+      "title": "종이 파이프로 표현한 '상서로운 기운'을 느껴볼까요?",
+      "description": "물론 \"오래 전부터 그린 2차원의 타공그림이 3차 원의 입체(파이프)로 발전\"한 것일 수도 있다. '우리는 하나... 현재 파주 평화누리공원에 설치된 ’우리는 하나’라는 조형물로 널리 알려져 있다. ⓒ 이철희 작가 이철희... ",
+      "link": "https://n.news.naver.com/mnews/article/047/0002510731?sid=103",
+      "originallink": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003221365&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
+      "pubDate": "2026-04-04",
+      "sentiment": "긍정",
+      "pos_pct": 100,
+      "neg_pct": 0,
+      "candidates_mentioned": [],
+      "is_joseonghwan": false,
+      "comments": {
+        "count": 0,
+        "positive": 0,
+        "negative": 0,
+        "neutral": 0,
+        "pos_pct": 0,
+        "top_comments": []
+      }
+    },
+    {
+      "title": "파주시의회, 제262회 임시회 폐회",
+      "description": "박대성 의장은 \"이번 임시회를 통해 편성된 추가경정예산이 신속히 집행되어 어려운 민생경제 회복에 실질적인 도움이 되기를 기대하며, 심도 있게 논의된 각종 안건들이 파주시 발전과 시민 복리 증진을 위해... ",
+      "link": "https://www.joongdo.co.kr/web/view.php?key=20260403010001001",
+      "originallink": "https://www.joongdo.co.kr/web/view.php?key=20260403010001001",
+      "pubDate": "2026-04-04",
+      "sentiment": "긍정",
+      "pos_pct": 100,
+      "neg_pct": 0,
+      "candidates_mentioned": [],
+      "is_joseonghwan": false,
+      "comments": {
+        "count": 0,
+        "positive": 0,
+        "negative": 0,
+        "neutral": 0,
+        "pos_pct": 0,
+        "top_comments": []
+      }
+    },
+    {
+      "title": "'첫 고비' 맞이한 수원FC 박건하 감독 \"4연승? 더 강한 팀 돼야...이런 경...",
+      "description": "그 부분을 중점적으로 준비하고, 공격적인 부분들은 기존에 해왔던 걸 더 발전시켰다\"고 덧붙였다. 브라질... 수원FC는 그동안 김해FC2008과 용인FC, 파주 프런티어 등 신생팀을 주로 상대했다. 박 감독은 \"앞으로의... ",
+      "link": "https://m.sports.naver.com/kfootball/article/117/0004050763",
+      "originallink": "https://www.mydaily.co.kr/page/view/2026040412434690086",
+      "pubDate": "2026-04-04",
+      "sentiment": "긍정",
+      "pos_pct": 100,
+      "neg_pct": 0,
+      "candidates_mentioned": [],
+      "is_joseonghwan": false,
+      "comments": {
+        "count": 0,
+        "positive": 0,
+        "negative": 0,
+        "neutral": 0,
+        "pos_pct": 0,
+        "top_comments": []
+      }
+    },
+    {
+      "title": "뭉치면 산다? 통신3사 'AX 뉴노멀'은…\"그룹사·빅테크 총동원\"",
+      "description": "SK케미칼은 부지를 제공하고, SK가스는 LNG 열병합 발전을 통해 친환경 요소까지 더한다. SK텔레콤... LG전자의 액체냉각 기술과 LG에너지솔루션의 전력 인프라를 결합해 파주 AIDC 경쟁력을 끌어올린다는 전략이다.... ",
+      "link": "https://n.news.naver.com/mnews/article/138/0002223285?sid=105",
+      "originallink": "https://www.ddaily.co.kr/page/view/2026040312333671871",
+      "pubDate": "2026-04-04",
+      "sentiment": "긍정",
+      "pos_pct": 100,
+      "neg_pct": 0,
+      "candidates_mentioned": [],
+      "is_joseonghwan": false,
+      "comments": {
+        "count": 3,
+        "positive": 0,
+        "negative": 1,
+        "neutral": 2,
+        "pos_pct": 0,
+        "top_comments": [
+          {
+            "text": "정유사 담합은 통신3사에 비하면 애교지 진장한 사기꾼들",
+            "likes": 2,
+            "dislikes": 1,
+            "date": "2026-04-04T18:29:37+0900"
+          },
+          {
+            "text": "뭉쳐서 대국민 사기만 치지마라! 5G라는 속도는 반토막에 제대로 된 콘텐츠 하나없이 비싼 요금으로 가입자 뒤통수 후드려 패는 수준으로...!",
+            "likes": 0,
+            "dislikes": 0,
+            "date": "2026-04-04T16:22:53+0900"
+          },
+          {
+            "text": "대국민 사기 가짜5G는 특검감인데 아무도 아무것도 하지않고 얼렁뚱땅넘어가네",
+            "likes": 5,
+            "dislikes": 2,
+            "date": "2026-04-04T12:40:42+0900"
+          }
+        ]
+      }
+    },
+    {
+      "title": "4/4~4/5 이마트·홈플러스·롯데마트 대형마트 휴무일·영업시간... 대형...",
+      "description": "국내 대형마트는 유통산업발전법에 따라 공통적으로 매장별 매월 이틀씩 의무 휴무를 갖는데 휴무 패턴은... 진접점, 파주운정점, 파주점, 평촌점, 포천점, 풍산점, 하남점, 화정점, 보령점, 청주점, 청주복대2점 등이다.... ",
+      "link": "http://www.finomy.com/news/articleView.html?idxno=252636",
+      "originallink": "http://www.finomy.com/news/articleView.html?idxno=252636",
+      "pubDate": "2026-04-04",
+      "sentiment": "긍정",
+      "pos_pct": 100,
+      "neg_pct": 0,
+      "candidates_mentioned": [],
+      "is_joseonghwan": false,
+      "comments": {
+        "count": 0,
+        "positive": 0,
+        "negative": 0,
+        "neutral": 0,
+        "pos_pct": 0,
+        "top_comments": []
+      }
+    },
+    {
+      "title": "'방치 킥보드 사라졌다' 파주GTX역, 한달새 벌어진 변화",
+      "description": "경기 파주시는 수도권광역급행철도(GTX) 운정중앙역 일대에 도입한 '개인형 이동장치(PM) 지정주차제' 시행 한 달 만에 보행환경이 크게 개선됐다고 4일 밝혔다. 제도 시행 전 운정중앙역 상부 및 보행로 일대에는 공유... ",
+      "link": "https://n.news.naver.com/mnews/article/003/0013867029?sid=102",
+      "originallink": "https://www.newsis.com/view/NISX20260403_0003576718",
+      "pubDate": "2026-04-04",
+      "sentiment": "긍정",
+      "pos_pct": 100,
+      "neg_pct": 0,
+      "candidates_mentioned": [],
+      "is_joseonghwan": false,
+      "comments": {
+        "count": 2,
+        "positive": 0,
+        "negative": 0,
+        "neutral": 2,
+        "pos_pct": 0,
+        "top_comments": [
+          {
+            "text": "사용자들이 청소년이 많은데 도로 아무대나 방치하는게 자전거로 전철역까지 출퇴근 하면서 상당히 신경이 쓰여요.",
+            "likes": 2,
+            "dislikes": 0,
+            "date": "2026-04-04T06:29:05+0900"
+          },
+          {
+            "text": "동탄GTX역도  제발~~",
+            "likes": 0,
+            "dislikes": 0,
+            "date": "2026-04-04T06:28:50+0900"
+          }
+        ]
+      }
+    },
+    {
+      "title": "[오늘 로또]1218회 로또 당첨번호 '3, 28, 31, 32, 42, 45' …2등 보너스번...",
+      "description": "국제개발협력 NGO 지파운데이션의 '2025 런포더문' 캠페인 홍보대사로 위촉되어 취약계층 여성들의... 복권백화점(자동·경기 파주시 평화로 70) 4. 북부슈퍼(자동·경기 의정부시 가능로125번길 22) 3. 한국슈퍼(자동... ",
+      "link": "https://www.namdonews.com/news/articleView.html?idxno=906336",
+      "originallink": "https://www.namdonews.com/news/articleView.html?idxno=906336",
+      "pubDate": "2026-04-04",
+      "sentiment": "중립",
+      "pos_pct": 0,
+      "neg_pct": 0,
+      "candidates_mentioned": [],
+      "is_joseonghwan": false,
+      "comments": {
+        "count": 0,
+        "positive": 0,
+        "negative": 0,
+        "neutral": 0,
+        "pos_pct": 0,
+        "top_comments": []
+      }
+    },
+    {
+      "title": "1218회 로또판매·추첨시간, 1217회 1등당첨지역 공개",
+      "description": "코미디언 이은지는 국제개발협력 NGO 지파운데이션 '2025 런포더문' 캠페인 홍보대사 위촉, 노래 점수당... 여술로OO백화점경기 파주시 평화로OO슈퍼경기 의정부시 가능로OO슈퍼경기 부천시 원종로 경상북도(1)... ",
+      "link": "https://www.gukjenews.com/news/articleView.html?idxno=3548436",
+      "originallink": "https://www.gukjenews.com/news/articleView.html?idxno=3548436",
+      "pubDate": "2026-04-04",
+      "sentiment": "중립",
+      "pos_pct": 0,
+      "neg_pct": 0,
+      "candidates_mentioned": [],
+      "is_joseonghwan": false,
+      "comments": {
+        "count": 0,
+        "positive": 0,
+        "negative": 0,
+        "neutral": 0,
+        "pos_pct": 0,
+        "top_comments": []
+      }
+    },
+    {
+      "title": "2026년 1분기 로또 1등 명당 174곳 총정리",
+      "description": "시흥시 복지로 103-1 1층상가 (자동) 로또N삭스 : 경기 의정부시 오목로205번길 39 골든프라자101호 (자동) 씨유 파주신촌점 : 경기 파주시 소라지로 79-3 (자동) 드림 복권판매점 : 경기 부천시 계남로 297 1층 102호... ",
+      "link": "https://www.econovill.com/news/articleView.html?idxno=736072",
+      "originallink": "https://www.econovill.com/news/articleView.html?idxno=736072",
+      "pubDate": "2026-04-04",
+      "sentiment": "긍정",
+      "pos_pct": 100,
+      "neg_pct": 0,
+      "candidates_mentioned": [],
+      "is_joseonghwan": false,
+      "comments": {
+        "count": 0,
+        "positive": 0,
+        "negative": 0,
+        "neutral": 0,
+        "pos_pct": 0,
+        "top_comments": []
+      }
+    },
+    {
+      "title": "유니클로, ‘스타필드 빌리지 운정점’ 오픈",
+      "description": "지난 2월 26일 '유니클로 스타필드 빌리지 운정점' 직원들은 파주시 운정종합사회복지관을 찾아 지역 어르신 300명을 대상으로 중식 배식 봉사활동에 참여했으며, '유니클로 스타필드 하남점' 직원들은 지난 2월 12일과... ",
+      "link": "https://n.news.naver.com/mnews/article/076/0004392029?sid=101",
+      "originallink": "https://www.sportschosun.com/life/2026-04-04/202604040100027750001643",
+      "pubDate": "2026-04-04",
+      "sentiment": "긍정",
+      "pos_pct": 100,
+      "neg_pct": 0,
+      "candidates_mentioned": [],
+      "is_joseonghwan": false,
+      "comments": {
+        "count": 0,
+        "positive": 0,
+        "negative": 0,
+        "neutral": 0,
+        "pos_pct": 0,
+        "top_comments": []
+      }
+    },
+    {
+      "title": "진보 경기도교육감 경선토론, 고교학점제·교육장 공모제 등 ‘치열한 ...",
+      "description": "성 예비후보는 부분적으로 동의한다면서도 25개 교육지원청 중 연천·포천·가평·파주 정도는 지역 공모제가 필요하지만 지역의 사정과 여건에 따라 확대할 필요가 있다는 입장을 내세웠다. 유 예비후보는 교육지원청은... ",
+      "link": "https://n.news.naver.com/mnews/article/666/0000101923?sid=102",
+      "originallink": "https://www.kyeonggi.com/article/20260404580081",
+      "pubDate": "2026-04-04",
+      "sentiment": "중립",
+      "pos_pct": 0,
+      "neg_pct": 0,
+      "candidates_mentioned": [],
+      "is_joseonghwan": false,
+      "comments": {
+        "count": 0,
+        "positive": 0,
+        "negative": 0,
+        "neutral": 0,
+        "pos_pct": 0,
+        "top_comments": []
+      }
+    },
+    {
+      "title": "민주당 경기도지사 후보 적합도…김동연 오차범위 밖 선두",
+      "description": "직전 조사에서는 유 전 장관이 16.2%, 임 교육감이 15.1%, 안 전 의원이 14.9%로 나타났지만 이번 조사에서는 안 전 의원이 오차범위 내에서 1위로 올라섰다. 여론조사에 언급된 권역 1권역: 고양, 파주, 김포 2권역... ",
+      "link": "https://n.news.naver.com/mnews/article/011/0004607060?sid=102",
+      "originallink": "https://www.sedaily.com/article/20028272?ref=naver",
+      "pubDate": "2026-04-04",
+      "sentiment": "긍정",
+      "pos_pct": 100,
+      "neg_pct": 0,
+      "candidates_mentioned": [],
+      "is_joseonghwan": false,
+      "comments": {
+        "count": 1,
+        "positive": 0,
+        "negative": 0,
+        "neutral": 1,
+        "pos_pct": 0,
+        "top_comments": [
+          {
+            "text": "김동연 씨에 대한 부정적인 생각이 바뀐 건 아닌데 토론 생중계 보니 추미애 씨가 왜 경기도지사 출마했는지 이유를 이해할 방법이 도저히 없더라.도지사는 정치가 아닌 행정으로 평가 받아야 할 자리가 맞다. 그동안 김동연 도지사에 대해 정치적 잣대로 비판했던 내 자신이 부끄럽다. 각설하고 세 후보가 정책대결로 선택 받기를.",
+            "likes": 2,
+            "dislikes": 1,
+            "date": "2026-04-04T21:19:37+0900"
+          }
+        ]
+      }
+    },
+    {
+      "title": "경기 與후보적합도 김동연·추미애 격차 더 벌어졌다…金 35.0%, 秋 21.5%[...",
+      "description": "선호하는 교육감 성향으로는 진보성향 교육감이 34.4%, 중도성향 교육감이 29.5%, 보수성향 교육감이 21.2%, 잘 모름이 14.9%였다. 여론조사에 언급된 권역 1권역: 고양, 파주, 김포 2권역: 동두천, 양주, 연천, 의정부... ",
+      "link": "https://n.news.naver.com/mnews/article/002/0002435481?sid=100",
+      "originallink": "https://www.pressian.com/pages/articles/2026040413054743167?utm_source=naver&utm_medium=search",
+      "pubDate": "2026-04-04",
+      "sentiment": "긍정",
+      "pos_pct": 100,
+      "neg_pct": 0,
+      "candidates_mentioned": [],
+      "is_joseonghwan": false,
+      "comments": {
+        "count": 20,
+        "positive": 3,
+        "negative": 0,
+        "neutral": 17,
+        "pos_pct": 15,
+        "top_comments": [
+          {
+            "text": "경기도 국짐당 김문수가 나와야 해~~~",
+            "likes": 0,
+            "dislikes": 0,
+            "date": "2026-04-05T15:06:54+0900"
+          },
+          {
+            "text": "추미에 아직도 딸내미 식당에가서 법인카드 쓰고 다니나",
+            "likes": 0,
+            "dislikes": 0,
+            "date": "2026-04-05T15:03:59+0900"
+          },
+          {
+            "text": "매친것들 기존의 언론 즉 푸세식 언론은 모두 검찰 기득권을 옹호하는 것들이다.",
+            "likes": 0,
+            "dislikes": 0,
+            "date": "2026-04-05T14:32:55+0900"
+          },
+          {
+            "text": "김동연 지사 잘합니다",
+            "likes": 0,
+            "dislikes": 0,
+            "date": "2026-04-05T13:20:49+0900"
+          },
+          {
+            "text": "추미애가  겅기도 도지사 후보가되면\n  국힘으로 도지사 넘어간다  서울을 민주당이 탈환하고\n  경기도는 국힘에 넘겨주는 멋진  빠터가 일어날듯",
+            "likes": 0,
+            "dislikes": 0,
+            "date": "2026-04-05T12:18:46+0900"
+          }
+        ]
+      }
+    },
+    {
+      "title": "경기TP·파주시, 청년창업 20개 팀 육성…우수 8곳 사업화 지원",
+      "description": "프로그램은 창업 역량 강화 교육, 사업계획 발표, 초기사업비 지원, 창업보육 공간 연계로 짜였다. 청년 창업 아이디어를 실제 사업화 단계까지 연결하는 것이 핵심이다. 파주청년창업지원센터 입주 기회도 함께... ",
+      "link": "https://n.news.naver.com/mnews/article/030/0003414566?sid=101",
+      "originallink": "https://www.etnews.com/20260404000011",
+      "pubDate": "2026-04-04",
+      "sentiment": "긍정",
+      "pos_pct": 100,
+      "neg_pct": 0,
+      "candidates_mentioned": [],
+      "is_joseonghwan": false,
+      "comments": {
+        "count": 0,
+        "positive": 0,
+        "negative": 0,
+        "neutral": 0,
+        "pos_pct": 0,
+        "top_comments": []
+      }
+    },
+    {
+      "title": "파주교육지원청, 식목일 맞아 전 직원 참여 식목행사 개최",
+      "description": "경기도파주교육지원청이 식목일을 맞아 전 직원이 참여하는 식목행사를 열고 자연 친화적인 사무 환경 조성과 조직 활력 제고에 나섰다. 3일 열린 '2026년 식목행사'는 직원들이 직접 꽃을 심으며 소통하는 시간을 통해... ",
+      "link": "https://www.kmaeil.com/news/articleView.html?idxno=635564",
+      "originallink": "https://www.kmaeil.com/news/articleView.html?idxno=635564",
+      "pubDate": "2026-04-04",
+      "sentiment": "긍정",
+      "pos_pct": 100,
+      "neg_pct": 0,
+      "candidates_mentioned": [],
+      "is_joseonghwan": false,
+      "comments": {
+        "count": 0,
+        "positive": 0,
+        "negative": 0,
+        "neutral": 0,
+        "pos_pct": 0,
+        "top_comments": []
+      }
+    }
+  ]
+}

@@ -1,0 +1,290 @@
+{
+  "date": "2026-04-05",
+  "analyzed_at": "2026-04-05T15:40:56.070260",
+  "news_stats": {
+    "date": "2026-04-05",
+    "total_articles": 52,
+    "joseonghwan_articles": 13,
+    "sentiment": {
+      "positive": 3,
+      "negative": 6,
+      "neutral": 4,
+      "pos_pct": 23,
+      "neg_pct": 46,
+      "neu_pct": 31
+    },
+    "comments": {
+      "total": 0,
+      "positive": 0,
+      "negative": 0,
+      "neutral": 0,
+      "pos_pct": 0,
+      "neg_pct": 0,
+      "neu_pct": 0
+    },
+    "candidate_exposure": {
+      "조성환": 13,
+      "이용욱": 1,
+      "고준호": 0,
+      "안명규": 0,
+      "박용호": 2,
+      "이재홍": 0,
+      "한길룡": 0
+    },
+    "top_keywords": [
+      [
+        "안전",
+        1
+      ]
+    ],
+    "top_articles": [
+      {
+        "title": "[SW포커스] ‘수난의 마운드’ QS 보기 어렵고, 뒷문도 흔들흔들",
+        "description": "조성환 KBS N 스포츠 해설위원은 “투수들의 몸 상태가 완전히 올라오지 않은 시기인 것을 감안해야 한다”고 말했다. 아직 페이스를 끌어올리는 과정에 있는 투수들이 적지 않다는 뜻이다. 정규리그는 144경기... ",
+        "link": "https://m.sports.naver.com/kbaseball/article/396/0000740809",
+        "originallink": "https://www.sportsworldi.com/newsView/20260405505777",
+        "pubDate": "2026-04-05",
+        "sentiment": "중립",
+        "pos_pct": 0,
+        "neg_pct": 0,
+        "candidates_mentioned": [
+          "조성환"
+        ],
+        "is_joseonghwan": true,
+        "comments": {
+          "count": 0,
+          "positive": 0,
+          "negative": 0,
+          "neutral": 0,
+          "pos_pct": 0,
+          "top_comments": []
+        }
+      },
+      {
+        "title": "크리스찬 발리골에 구상민 선방쇼... 부산, 경남 꺾고 K리그2 1위 등극",
+        "description": "조성환 감독이 이끄는 부산 아이파크는 지난 4일 오후 4시 30분 창원 축구센터에서 열린 2026 K리그2 경남... 감독 : 조성환) FW : 크리스찬(78분↔김찬), 박혜성(46분↔김민혁) MF : 손휘(46분↔김현민), 이동수, 손준석... ",
+        "link": "https://m.sports.naver.com/kfootball/article/047/0002510773",
+        "originallink": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003221452&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
+        "pubDate": "2026-04-05",
+        "sentiment": "중립",
+        "pos_pct": 0,
+        "neg_pct": 0,
+        "candidates_mentioned": [
+          "조성환"
+        ],
+        "is_joseonghwan": true,
+        "comments": {
+          "count": 0,
+          "positive": 0,
+          "negative": 0,
+          "neutral": 0,
+          "pos_pct": 0,
+          "top_comments": []
+        }
+      },
+      {
+        "title": "인천시 계양구 자율방범대, 2026년 출정식 개최",
+        "description": "촘촘한 안전망 구축  인천 계양구 자율방범대(연합대장 조성환)는 지난 1일 저녁 계양구청 1층 로비에서 ‘2026년 자율방범대 출정식’을 개최했다. 이날 출정식에는 자율방범연합대와 각 동 자율방범대원 120여 명이... ",
+        "link": "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160281556272358",
+        "originallink": "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160281556272358",
+        "pubDate": "2026-04-05",
+        "sentiment": "중립",
+        "pos_pct": 0,
+        "neg_pct": 0,
+        "candidates_mentioned": [
+          "조성환"
+        ],
+        "is_joseonghwan": true,
+        "comments": {
+          "count": 0,
+          "positive": 0,
+          "negative": 0,
+          "neutral": 0,
+          "pos_pct": 0,
+          "top_comments": []
+        }
+      },
+      {
+        "title": "[BE.현장] \"프로 감독 되고 첫 5연승!\" 파죽지세를 즐기는 조성환 부산 ...",
+        "description": "창원-김태석 기자 조성환 부산 아이파크 감독이 팀의 5연승 행진에 기뻐했다. 무엇보다 프로 감독 커리어 처음으로 경험하는 5연승이라는 점에서 만면에 미소를 지으며 승리를 즐겼다. 조성환 감독이 이끄는 부산은 4일... ",
+        "link": "https://m.sports.naver.com/kfootball/article/343/0000141281",
+        "originallink": "https://www.besteleven.com/news/articleView.html?idxno=305551",
+        "pubDate": "2026-04-04",
+        "sentiment": "긍정",
+        "pos_pct": 100,
+        "neg_pct": 0,
+        "candidates_mentioned": [
+          "조성환"
+        ],
+        "is_joseonghwan": true,
+        "comments": {
+          "count": 0,
+          "positive": 0,
+          "negative": 0,
+          "neutral": 0,
+          "pos_pct": 0,
+          "top_comments": []
+        }
+      },
+      {
+        "title": "[BE.현장] 3년 만에 5연승 폭발+조성환 감독 부임 후 최다 연승…부산, ...",
+        "description": "조성환 감독 체제가 들어선 후 최다 연승이며, 수원 삼성의 라운드 결과를 지켜봐야겠지만 현 시점에서는 K리그2 선두에 이름을 올렸다. 조성환 감독이 이끄는 부산은 4일 오후 4시 30분 창원축구센터에서 벌어졌던... ",
+        "link": "https://m.sports.naver.com/kfootball/article/343/0000141277",
+        "originallink": "https://www.besteleven.com/news/articleView.html?idxno=305547",
+        "pubDate": "2026-04-04",
+        "sentiment": "긍정",
+        "pos_pct": 100,
+        "neg_pct": 0,
+        "candidates_mentioned": [
+          "조성환"
+        ],
+        "is_joseonghwan": true,
+        "comments": {
+          "count": 0,
+          "positive": 0,
+          "negative": 0,
+          "neutral": 0,
+          "pos_pct": 0,
+          "top_comments": []
+        }
+      },
+      {
+        "title": "[BE.현장] 득점원 빠진 경남, 전술로 맞선다… 배성재 감독 \"크리스찬 패...",
+        "description": "안현범의 부상으로 인해 부산의 최후방이 다소 달라졌다는 이야기에 대해서는 \"조성환 감독님의 팀을 2년 정도 유심히 지켜보면서 느낀 건데, 경남과 할 때는 주로 스리백과 포백을 오가는 플레이를 펼치시더라. 오늘도... ",
+        "link": "https://m.sports.naver.com/kfootball/article/343/0000141276",
+        "originallink": "https://www.besteleven.com/news/articleView.html?idxno=305546",
+        "pubDate": "2026-04-04",
+        "sentiment": "중립",
+        "pos_pct": 0,
+        "neg_pct": 0,
+        "candidates_mentioned": [
+          "조성환"
+        ],
+        "is_joseonghwan": true,
+        "comments": {
+          "count": 0,
+          "positive": 0,
+          "negative": 0,
+          "neutral": 0,
+          "pos_pct": 0,
+          "top_comments": []
+        }
+      },
+      {
+        "title": "[BE.현장] 경남전 앞두고 승부수 던졌다… 조성환 감독 \"라인업 변화+빌...",
+        "description": "창원-김태석 기자 조성환 부산 아이파크 감독이 경남 FC전을 앞두고 선발 라인업에 변화를 꾀하면서 빌드업 구조가 이전 경기와는 다를 것이라고 예고했다. 조 감독이 이끄는 부산은 잠시 후인 5일 오후 4시 30분... ",
+        "link": "https://m.sports.naver.com/kfootball/article/343/0000141274",
+        "originallink": "https://www.besteleven.com/news/articleView.html?idxno=305543",
+        "pubDate": "2026-04-04",
+        "sentiment": "긍정",
+        "pos_pct": 100,
+        "neg_pct": 0,
+        "candidates_mentioned": [
+          "조성환"
+        ],
+        "is_joseonghwan": true,
+        "comments": {
+          "count": 0,
+          "positive": 0,
+          "negative": 0,
+          "neutral": 0,
+          "pos_pct": 0,
+          "top_comments": []
+        }
+      },
+      {
+        "title": "‘불금야구’ 한화 이글스 VS 두산 베어스",
+        "description": "지난 3일 첫 방송된 ‘불금야구’에서는 박용택X조성환 해설위원과 이호근 캐스터가 서울 잠실구장에서... 조성환 위원은 “6회에 와서야 드디어 분위기가 뜨거워지네요”라며 흥미로워했다. 그러나 7회에 한화는... ",
+        "link": "https://www.bntnews.co.kr/article/view/bnt202604040074",
+        "originallink": "https://www.bntnews.co.kr/article/view/bnt202604040074",
+        "pubDate": "2026-04-04",
+        "sentiment": "부정",
+        "pos_pct": 0,
+        "neg_pct": 100,
+        "candidates_mentioned": [
+          "조성환"
+        ],
+        "is_joseonghwan": true,
+        "comments": {
+          "count": 0,
+          "positive": 0,
+          "negative": 0,
+          "neutral": 0,
+          "pos_pct": 0,
+          "top_comments": []
+        }
+      },
+      {
+        "title": "'불금야구' 박용택, 페라자 홈런에 \"최신상 기술\" 극찬",
+        "description": "3일 처음 방송된 KBS 2TV '불금야구'에서는 박용택-조성환 해설위원과 이호근 캐스터가 서울 잠실구장에서... 조성환 위원은 \"6회에 와서야 드디어 분위기가 뜨거워진다\"라며 흥미로워했다. 그러나 7회에 한화는 두산에... ",
+        "link": "https://m.entertain.naver.com/article/421/0008869946",
+        "originallink": "https://www.news1.kr/entertain/broadcast-tv/6125312",
+        "pubDate": "2026-04-04",
+        "sentiment": "부정",
+        "pos_pct": 0,
+        "neg_pct": 100,
+        "candidates_mentioned": [
+          "조성환"
+        ],
+        "is_joseonghwan": true,
+        "comments": {
+          "count": 0,
+          "positive": 0,
+          "negative": 0,
+          "neutral": 0,
+          "pos_pct": 0,
+          "top_comments": []
+        }
+      },
+      {
+        "title": "‘불금야구’박용택 조성환 촌철살인“저건 최신상 기술, 우리 때만 해...",
+        "description": "3일 첫 방송된 ‘불금야구’에서는 박용택X조성환 해설위원과 이호근 캐스터가 서울 잠실구장에서 열린... 조성환 위원은 “6회에 와서야 드디어 분위기가 뜨거워지네요”라며 흥미로워했다. 그러나 7회에 한화는... ",
+        "link": "https://m.entertain.naver.com/article/609/0001110248",
+        "originallink": "https://www.newsen.com/news_view.php?uid=202604040858481210",
+        "pubDate": "2026-04-04",
+        "sentiment": "부정",
+        "pos_pct": 0,
+        "neg_pct": 100,
+        "candidates_mentioned": [
+          "조성환"
+        ],
+        "is_joseonghwan": true,
+        "comments": {
+          "count": 0,
+          "positive": 0,
+          "negative": 0,
+          "neutral": 0,
+          "pos_pct": 0,
+          "top_comments": []
+        }
+      }
+    ]
+  },
+  "trends": {
+    "article_change": 0,
+    "sentiment_change": 0,
+    "comment_change": 0,
+    "alert_level": "normal",
+    "alerts": []
+  },
+  "social_summary": {
+    "youtube": {
+      "status": "수집완료",
+      "count": 2
+    },
+    "twitter": {
+      "status": "수집완료",
+      "count": 11
+    },
+    "community": {
+      "status": "수집완료",
+      "count": 40
+    },
+    "naver_comments": {
+      "status": "수집완료",
+      "count": 0
+    }
+  },
+  "ai_strategy": "# 📊 조성환 캠프 전략 지시서 | D-59 (2026-04-05)\n\n━━━ 핵심 진단 ━━━\n오늘 기사 13건 중 **동명이인(부산 축구감독·야구해설) 노출이 전체를 잠식**, 정치인 조성환의 실질 노출은 사실상 0에 가깝다. 부정 46%는 후보 본인의 실책이 아닌 **노이즈 오염**이나, 유권자 검색 시 부정 이미지가 혼재될 위험이 크다. 경쟁자 전원이 노출 0건인 지금이 역설적으로 **선점 공백 기회**다.\n\n🎯 핵심 미션\n\"동명이인 노이즈를 역이용해 '파주시장 조성환'으로 검색 정체성을 오늘 확립하라.\"\n\n✅ 즉시 실행\n⚡ **[긴급]** 네이버·구글 키워드 광고에 '파주시장 조성환' '파주 조성환 경기도의원' 즉시 세팅. 동명이인 기사 상위 노출 시간대(오늘 저녁) 전에 집행 시작.\n📋 **[이번 주]** 파주 GTX-A 개통 효과·운정신도시 교통 현황을 소재로 \"파주시장 조성환의 교통 공약\" 30초 숏폼 1편 제작·배포. 제목에 반드시 '파주시장' 명기.\n🎯 **[경쟁자 대응]** 박용호(당협위원장, 2건 노출) 견제 — 이번 주 파주 접경지역(문산·적성) 현장 방문 사진+한 줄 정책 메시지 게시. 국힘 텃밭 지역에 선제 민생 존재감 확보.\n\n⚡ 위기/기회\n🔴 **위기:** '불금야구' 조성환 해설위원 부정 기사 5건이 검색 상단 오염. 유권자가 후보 검색 시 야구 비판 댓글 맥락과 혼동 가능. 방치 시 인상 손상 누적.\n🟢 **기회:** 경쟁자 전원 노출 0건 — 오늘 저녁 파주 관련 정책 콘텐츠 1건만 내도 **파주시장 후보 중 독보적 1위 노출** 달성 가능.\n\n🔮 내일 주목\n① '파주시장 조성환' 검색 결과 1페이지 구성 변화 확인 (동명이인 밀어냈는지)\n② 이용욱 경선 경쟁자 추가 행보·기사 발생 여부 모니터링",
+  "fallback_strategy": null
+}
